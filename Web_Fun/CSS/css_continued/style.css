@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: 2px dashed red;
+}
+.wrapper{
+    width: 950px;
+    background-color: #38b0ac;
+    margin: 0px auto;
+    padding: 20px;
+    color: white;
+}
+p{
+    font-size: 20px;
+}
+span{
+    color: black;
+}
+#yellow-span{
+    color: yellow;
+    font-weight: bold;
+    text-decoration: underline;
+}
+ul{
+    margin-bottom: 10px;
+    background-color: lightgrey;
+    color: black;
+    padding: 20px;
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+li{
+    margin-left: 20px;
+}
